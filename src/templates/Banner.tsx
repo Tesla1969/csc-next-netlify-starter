@@ -7,8 +7,8 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Quality Cleaning you can trust!"
-      subtitle="Get your Free Estimate."
+      title="Quality Home and Office Cleaning you can trust!"
+      subtitle="Get your Free Estimate Now."
       button={
         <Link href="#">
           <a>
