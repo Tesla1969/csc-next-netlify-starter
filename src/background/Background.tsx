@@ -7,10 +7,10 @@ type IBackgroundProps = {
 
 const Background = (props: IBackgroundProps) => (
   <div
-    style={{ backgroundImage: 'url(./background/pexels5217889.jpg)' }}
+    style={{ backgroundImage: 'url(./src/background/pexels5217889.jpg)' }}
     className={props.color}
   >
-    {props.children}
+    {props.children} ..
   </div>
 );
 
