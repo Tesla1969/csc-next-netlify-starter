@@ -6,7 +6,12 @@ type IBackgroundProps = {
 };
 
 const Background = (props: IBackgroundProps) => (
-  <div className={props.color}>{props.children}</div>
+  <div
+    style={{ backgroundImage: 'url(./background/pexels5217889.jpg)' }}
+    className={props.color}
+  >
+    {props.children}
+  </div>
 );
 
 export { Background };
