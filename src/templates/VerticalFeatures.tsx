@@ -9,7 +9,7 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
 const VerticalFeatures = () => (
   <>
-    <Background color="cs-blue" bgclass="bg-header">
+    <Background color="bg-pink" bgclass="bg-header">
       <Section yPadding="py-6">
         <NavbarTwoColumns>
           <li>
@@ -25,13 +25,14 @@ const VerticalFeatures = () => (
         </NavbarTwoColumns>
       </Section>
     </Background>
+    <Section yPadding="py-2">
+      <span color="cs-orange">
+        Specialty cleaning services gladly serving the Danbury, Brookfield,
+        Newtown, Easton, Redding & Ridgefield areas of Connecticut
+      </span>
+    </Section>
+
     <Section title="" description="" yPadding="py-0">
-      <VerticalFeatureRow
-        title="Specialty cleaning services in the following Connecticut locations"
-        description="We are gladly serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
-        image=""
-        imageAlt=""
-      />
       <VerticalFeatureRow
         title="House Cleaning"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
