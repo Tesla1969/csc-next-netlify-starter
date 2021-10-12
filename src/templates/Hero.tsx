@@ -29,13 +29,9 @@ const Hero = () => (
         title={
           <>
             <p className="cs-lime">Crystal Shine Cleaning Services</p>
-
-            <span className="text-2xl cs-orange">
-              Specialty cleaning services in the following Connecticut locations
-            </span>
           </>
         }
-        description="We are gladly serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
+        description=""
         button={
           <Link href="#">
             <a>

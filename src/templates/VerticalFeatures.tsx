@@ -4,6 +4,12 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section title="" description="">
     <VerticalFeatureRow
+      title="Specialty cleaning services in the following Connecticut locations"
+      description="We are gladly serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
+      image=""
+      imageAlt=""
+    />
+    <VerticalFeatureRow
       title="House Cleaning"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
       image="/assets/images/feature.svg"
