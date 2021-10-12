@@ -9,7 +9,7 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
 const VerticalFeatures = () => (
   <>
-    <Background color="bg-pink" bgclass="bg-header">
+    <Background color="bg-pink" bgclass="bg-logo-blend">
       <Section yPadding="py-6">
         <NavbarTwoColumns>
           <li>
