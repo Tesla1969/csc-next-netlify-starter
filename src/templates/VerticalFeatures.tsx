@@ -40,20 +40,20 @@ const VerticalFeatures = () => (
     <Section title="" description="" yPadding="py-0">
       <VerticalFeatureRow
         title="House Cleaning"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+        description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
         image="/assets/images/feature.svg"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
         title="Office Cleaning"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+        description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
         image="/assets/images/feature2.svg"
         imageAlt="Second feature alt text"
         reverse
       />
       <VerticalFeatureRow
-        title="Condominium and all Realtor Cleanings"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+        title="Condominium and all other vacancy cleanings."
+        description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
         image="/assets/images/feature3.svg"
         imageAlt="Third feature alt text"
       />
