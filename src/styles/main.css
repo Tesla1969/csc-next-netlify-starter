@@ -4,6 +4,17 @@
 
 @tailwind utilities;
 
+// ** color pallete base **
+/* Lime #95D600
+Blue #226F9D
+Yellow #FFDF4A
+Lavender Pink #D092E3
+Orange #F0560E */
+
+.btn-primary {
+  background-color: #226F9D;
+}
+
 .bg-cleaning-containers-footer {
   background-image: url("/pexels5217889.jpg");
   background-repeat: no-repeat;
