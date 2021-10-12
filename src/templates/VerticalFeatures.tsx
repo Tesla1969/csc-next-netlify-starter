@@ -26,9 +26,12 @@ const VerticalFeatures = () => (
       </Section>
     </Background>
     <Section yPadding="py-2">
+      <h2 className="text-5xl" color="cs-lime">
+        Crystal Shine Cleaning Services
+      </h2>
       <span color="cs-orange">
-        Specialty cleaning services gladly serving the Danbury, Brookfield,
-        Newtown, Easton, Redding & Ridgefield areas of Connecticut
+        Specialty cleaning services company gladly serving the Danbury,
+        Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut
       </span>
     </Section>
 
