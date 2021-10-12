@@ -30,8 +30,8 @@ const Hero = () => (
           <>
             <span className="cs-lime">Crystal Shine Cleaning Services</span>
             {'\n'}
-            <span className="text-primary-500">
-              Specialty Cleaning in the following Connecticut locations
+            <span className="text-primary-500 text-sm cs-orange">
+              Specialty cleaning services in the following Connecticut locations
             </span>
           </>
         }
