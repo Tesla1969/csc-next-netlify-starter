@@ -33,6 +33,10 @@
   background-color: #226F9D !important;
 }
 
+.bg-header {
+  background-color: #F0560E;
+}
+
 .bg-cleaning-containers-footer {
   background-image: url("/pexels5217889.jpg");
   background-repeat: no-repeat;
