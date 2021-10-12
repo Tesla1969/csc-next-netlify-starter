@@ -35,7 +35,7 @@ const Hero = () => (
             </span>
           </>
         }
-        description="Serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
+        description="We are gladly serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
         button={
           <Link href="#">
             <a>
