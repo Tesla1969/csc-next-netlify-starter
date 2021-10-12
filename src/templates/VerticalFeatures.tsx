@@ -25,7 +25,7 @@ const VerticalFeatures = () => (
         </NavbarTwoColumns>
       </Section>
     </Background>
-    <Section title="" description="">
+    <Section title="" description="" yPadding="py-0">
       <VerticalFeatureRow
         title="Specialty cleaning services in the following Connecticut locations"
         description="We are gladly serving the Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"
