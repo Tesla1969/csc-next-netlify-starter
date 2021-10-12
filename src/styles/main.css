@@ -3,3 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.bgclean {
+  background-image: url("/pexels5217889.jpg");
+  background-repeat: no-repeat;
+  height: 550px;
+  background-size: cover;
+}
