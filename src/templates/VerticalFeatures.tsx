@@ -26,7 +26,7 @@ const VerticalFeatures = () => (
       </Section>
     </Background>
     <Section yPadding="py-2">
-      <h2 className="text-4xl" color="cs-lime">
+      <h2 className="text-2xl" color="cs-lime">
         Crystal Shine Cleaning
       </h2>
       <span color="cs-orange">
