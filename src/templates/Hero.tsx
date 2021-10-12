@@ -33,7 +33,7 @@ const Hero = () => (
         }
         description=""
         button={
-          <Link href="#">
+          <Link href="/contact">
             <a>
               <Button xl>Contact Us</Button>
             </a>
