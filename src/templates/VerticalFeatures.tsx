@@ -9,7 +9,7 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
 const VerticalFeatures = () => (
   <>
-    <Background color="bg-pink" bgclass="bg-logo-blend">
+    <Background color="cs-pink" bgclass="bg-logo-blend">
       <Section yPadding="py-6">
         <NavbarTwoColumns>
           <li>
@@ -29,7 +29,7 @@ const VerticalFeatures = () => (
       <h2 className="text-2xl" color="cs-lime">
         Crystal Shine Cleaning
       </h2>
-      <span color="cs-orange">
+      <span color="#F0560E">
         Specialty cleaning services including House Cleaning, Office Cleaning,
         Realtor move-ins & move-outs, Construction Cleanups or labor assistance.
         We provide services for the Danbury, Brookfield, Newtown, Easton,
