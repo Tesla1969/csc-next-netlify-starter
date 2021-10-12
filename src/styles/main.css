@@ -4,9 +4,9 @@
 
 @tailwind utilities;
 
-.bgclean {
+.bg-cleaning-containers-footer {
   background-image: url("/pexels5217889.jpg");
   background-repeat: no-repeat;
-  height: 550px;
+  height: 450px;
   background-size: cover;
 }

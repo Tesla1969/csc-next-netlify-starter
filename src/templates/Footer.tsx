@@ -6,7 +6,7 @@ import { Section } from '../layout/Section';
 import { Logo } from './Logo';
 
 const Footer = () => (
-  <Background color="bg-gray-100" bgimage="bgclean">
+  <Background color="bg-gray-100" bgclass="bg-cleaning-containers-footer">
     <Section>
       <CenteredFooter logo={<Logo />} iconList={<></>}>
         <li>
