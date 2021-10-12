@@ -30,8 +30,10 @@ const VerticalFeatures = () => (
         Crystal Shine Cleaning
       </h2>
       <span color="cs-orange">
-        Specialty cleaning services company gladly serving the Danbury,
-        Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut
+        Specialty cleaning services including House Cleaning, Office Cleaning,
+        Realtor move-ins & move-outs, Construction Cleanups or labor assistance.
+        We provide services for the Danbury, Brookfield, Newtown, Easton,
+        Redding & Ridgefield areas of Connecticut
       </span>
     </Section>
 
