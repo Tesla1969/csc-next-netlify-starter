@@ -28,8 +28,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Crystal Shine\n'}
-            <span className="text-primary-500">Specialty Cleaning Service</span>
+            <span className="cs-lime">Crystal Shine Cleaning Services</span>
+            {'\n'}
+            <span className="text-primary-500">
+              Specialty Cleaning in the following Connecticut locations
+            </span>
           </>
         }
         description="Serving the greater Danbury, Brookfield, Newtown, Easton, Redding & Ridgefield areas of Connecticut"

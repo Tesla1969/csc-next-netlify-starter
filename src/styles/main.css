@@ -5,11 +5,25 @@
 @tailwind utilities;
 
 // ** color pallete base **
-/* Lime #95D600
-Blue #226F9D
-Yellow #FFDF4A
-Lavender Pink #D092E3
-Orange #F0560E */
+.cs-lime {
+  color: #95D600;
+}
+
+.cs-blue {
+  color: #226F9D;
+}
+
+.cs-yellow {
+  color: #FFDF4A;
+}
+
+.cs-pink {
+  color: #D092E3;
+}
+
+.cs-orange {
+  color: #F0560E;
+}
 
 .btn-primary {
   background-color: #226F9D !important;
