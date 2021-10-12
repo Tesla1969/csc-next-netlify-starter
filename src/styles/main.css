@@ -44,7 +44,7 @@
 .bg-best-cleaning {
   background-image: url("/Best-Cleaning-Service-In-San-Diego.png");
   background-repeat: no-repeat;
-  height: 255px;
+  height: 20vh;
   background-size: cover;
-  background-position: 100% -50px
+  background-position: 100% 50px
 }
