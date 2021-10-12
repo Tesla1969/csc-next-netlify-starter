@@ -12,7 +12,7 @@ Lavender Pink #D092E3
 Orange #F0560E */
 
 .btn-primary {
-  background-color: #226F9D;
+  background-color: #226F9D !important;
 }
 
 .bg-cleaning-containers-footer {
