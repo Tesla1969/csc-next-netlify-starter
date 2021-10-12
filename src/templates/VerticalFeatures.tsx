@@ -41,20 +41,20 @@ const VerticalFeatures = () => (
       <VerticalFeatureRow
         title="House Cleaning"
         description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
-        image="/assets/images/feature.svg"
+        image="/home-cleaning-supplies-and-equipment.png"
         imageAlt="First feature alt text"
       />
       <VerticalFeatureRow
         title="Office Cleaning"
         description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
-        image="/assets/images/feature2.svg"
+        image="/office-cleaning-supplies-and-safety.png"
         imageAlt="Second feature alt text"
         reverse
       />
       <VerticalFeatureRow
         title="Condominium and all other vacancy cleanings."
         description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
-        image="/assets/images/feature3.svg"
+        image="/cleaning-maid-service-commercial-cleaning.png"
         imageAlt="Third feature alt text"
       />
     </Section>
