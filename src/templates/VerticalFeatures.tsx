@@ -13,7 +13,7 @@ const VerticalFeatures = () => (
       <Section yPadding="py-6">
         <NavbarTwoColumns>
           <li>
-            <Link href="#">
+            <Link href="/contact-crystal-shine-cleaning-service">
               <a>Contact Us</a>
             </Link>
           </li>
