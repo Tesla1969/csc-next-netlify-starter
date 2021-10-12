@@ -6,13 +6,12 @@ import { Background } from '../background/Background';
 import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 import { Section } from '../layout/Section';
 import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
-import { Logo } from './Logo';
 
 const VerticalFeatures = () => (
   <>
     <Background color="cs-blue">
       <Section yPadding="py-6">
-        <NavbarTwoColumns logo={<Logo xl />}>
+        <NavbarTwoColumns>
           <li>
             <Link href="#">
               <a>Link</a>
