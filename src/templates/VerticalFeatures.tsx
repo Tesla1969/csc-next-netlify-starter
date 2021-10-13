@@ -51,7 +51,7 @@ const VerticalFeatures = () => (
       />
       <VerticalFeatureRow
         title="Office Cleaning"
-        description="We do general office cleaning or specific cleaning tasks and any needed responsibilities. <a href='#'>One-time</a> or <a href='#'>Schedule</a> a return visit."
+        description="We do general office cleaning or specific cleaning tasks and any needed responsibilities. One-time or Schedule a return visit."
         image="/office-cleaning-supplies-and-safety.png"
         imageAlt="Affordable Office Cleaning"
         reverse
