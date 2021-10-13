@@ -46,7 +46,7 @@ const VerticalFeatures = () => (
       />
       <VerticalFeatureRow
         title="Office Cleaning"
-        description="We do deep cleaning and simple cleaning on a one-time or recurring frequency."
+        description="We do general office cleaning or specific cleaning tasks and responsibilities. One-time or Recurring return visits."
         image="/office-cleaning-supplies-and-safety.png"
         imageAlt="Second feature alt text"
         reverse
