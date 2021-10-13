@@ -30,9 +30,11 @@ const VerticalFeatures = () => (
         Crystal Shine Cleaning
       </h2>
       <p>
-        Specialty cleaning services including House Cleaning, Office Cleaning,
-        Realtor move-ins & move-outs, Construction Cleanups or even Holiday
-        Decorations or General Labor assistance.
+        Specialty cleaning services including <a href="#">House Cleaning</a>,{' '}
+        <a href="#">Office Cleaning</a>,<a href="#">Tenant Vacancy</a>,{' '}
+        <a href="#">Construction Cleanups</a> or even{' '}
+        <a href="#">Holiday Decorations</a> or <a href="#">General Labor</a>{' '}
+        assistance.
       </p>
       <p>
         We provide services for the Danbury, Brookfield, Newtown, Easton,
@@ -49,7 +51,7 @@ const VerticalFeatures = () => (
       />
       <VerticalFeatureRow
         title="Office Cleaning"
-        description="We do general office cleaning or specific cleaning tasks and any needed responsibilities. One-time or Schedule a return visit."
+        description="We do general office cleaning or specific cleaning tasks and any needed responsibilities. <a href='#'>One-time</a> or <a href='#'>Schedule</a> a return visit."
         image="/office-cleaning-supplies-and-safety.png"
         imageAlt="Affordable Office Cleaning"
         reverse
