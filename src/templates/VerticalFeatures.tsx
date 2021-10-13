@@ -29,12 +29,15 @@ const VerticalFeatures = () => (
       <h2 className="text-2xl" color="cs-lime">
         Crystal Shine Cleaning
       </h2>
-      <span color="#F0560E">
+      <p>
         Specialty cleaning services including House Cleaning, Office Cleaning,
-        Realtor move-ins & move-outs, Construction Cleanups or labor assistance.
+        Realtor move-ins & move-outs, Construction Cleanups or even Holiday
+        Decorations or General Labor assistance.
+      </p>
+      <p>
         We provide services for the Danbury, Brookfield, Newtown, Easton,
         Redding & Ridgefield areas of Connecticut
-      </span>
+      </p>
     </Section>
 
     <Section title="" description="" yPadding="py-0">
