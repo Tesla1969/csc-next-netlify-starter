@@ -1,7 +1,9 @@
 import React from 'react';
+
 import Form from '../form/Form';
 import Layout from '../layout/Layout';
 import SubHeader from '../subHeader/SubHeader';
+
 import { Footer } from '../templates/Footer';
 import { Hero } from '../templates/Hero';
 
