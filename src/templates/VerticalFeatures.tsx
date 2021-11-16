@@ -1,6 +1,6 @@
-import React from "react";
-import { VerticalFeatureRow } from "../feature/VerticalFeatureRow";
-import { Section } from "../layout/Section";
+import React from 'react';
+import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
+import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <>
@@ -25,10 +25,10 @@ const VerticalFeatures = () => (
         Crystal Shine Cleaning
       </h2>
       <p>
-        Specialty cleaning services including <a href="#">House Cleaning</a>,{" "}
-        <a href="#">Office Cleaning</a>,<a href="#">Tenant Vacancy</a>,{" "}
-        <a href="#">Construction Cleanups</a> or even{" "}
-        <a href="#">Holiday Decorations</a> or <a href="#">General Labor</a>{" "}
+        Specialty cleaning services including <a href="#">House Cleaning</a>,{' '}
+        <a href="#">Office Cleaning</a>,<a href="#">Tenant Vacancy</a>,{' '}
+        <a href="#">Construction Cleanups</a> or even{' '}
+        <a href="#">Holiday Decorations</a> or <a href="#">General Labor</a>{' '}
         assistance.
       </p>
       <p>

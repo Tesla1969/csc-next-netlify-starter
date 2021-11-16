@@ -1,8 +1,8 @@
-import React from "react";
-import { Section } from "../layout/Section";
-import { NavbarTwoColumns } from "../navigation/NavbarTwoColumns";
-import { Background } from "../background/Background";
-import Link from "next/link";
+import React from 'react';
+import { Section } from '../layout/Section';
+import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
+import { Background } from '../background/Background';
+import Link from 'next/link';
 
 const SubHeader = () => {
   return (

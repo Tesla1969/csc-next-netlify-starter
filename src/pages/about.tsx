@@ -1,12 +1,12 @@
-import React from "react";
-import Layout from "../layout/Layout";
-import SubHeader from "../subHeader/SubHeader";
-import { Footer } from "../templates/Footer";
-import { Hero } from "../templates/Hero";
+import React from 'react';
+import Layout from '../layout/Layout';
+import SubHeader from '../subHeader/SubHeader';
+import { Footer } from '../templates/Footer';
+import { Hero } from '../templates/Hero';
 
 const About = () => {
   return (
-    <div style={{ backgroundColor: "#e5f4ff" }}>
+    <div style={{ backgroundColor: '#e5f4ff' }}>
       <Layout title="">
         <Hero />
         <SubHeader />
