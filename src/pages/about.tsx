@@ -1,9 +1,8 @@
 import React from 'react';
 import Layout from '../layout/Layout';
-
 import SubHeader from '../subHeader/SubHeader';
-import { Hero } from '../templates/Hero';
 import { Footer } from '../templates/Footer';
+import { Hero } from '../templates/Hero';
 
 const About = () => {
   return (
