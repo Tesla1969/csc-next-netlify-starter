@@ -5,6 +5,7 @@ import SubHeader from '../subHeader/SubHeader';
 import { Footer } from '../templates/Footer';
 import { Hero } from '../templates/Hero';
 
+
 const Contact = () => {
   return (
     <div style={{ backgroundColor: '#e5f4ff' }}>
