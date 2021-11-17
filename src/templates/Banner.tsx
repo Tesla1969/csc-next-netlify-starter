@@ -10,7 +10,7 @@ const Banner = () => (
       title="Quality Home and Office Cleaning you can trust!"
       subtitle="Get your Free Estimate Now."
       button={
-        <Link href="#">
+        <Link href="/contact">
           <a>
             <Button>Contact Us</Button>
           </a>

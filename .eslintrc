@@ -25,6 +25,7 @@
         "project": "./tsconfig.json"
       },
       "rules": {
+        "react/no-unescaped-entities": "off",
         "@next/next/no-document-import-in-page": "off",
         "prettier/prettier": [
           "error",

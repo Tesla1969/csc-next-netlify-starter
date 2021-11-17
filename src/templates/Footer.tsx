@@ -1,9 +1,8 @@
-import Link from 'next/link';
-
-import { Background } from '../background/Background';
-import { CenteredFooter } from '../footer/CenteredFooter';
-import { Section } from '../layout/Section';
-import { Logo } from './Logo';
+import Link from "next/link";
+import { Background } from "../background/Background";
+import { CenteredFooter } from "../footer/CenteredFooter";
+import { Section } from "../layout/Section";
+import { Logo } from "./Logo";
 
 const Footer = () => (
   <Background color="bg-gray-100" bgclass="bg-cleaning-containers-footer">
@@ -15,12 +14,12 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="/about">
             <a>About</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="/contact">
             <a>Contact</a>
           </Link>
         </li>

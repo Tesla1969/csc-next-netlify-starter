@@ -1,30 +1,25 @@
 import React from 'react';
-
-import Link from 'next/link';
-
-import { Background } from '../background/Background';
 import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 import { Section } from '../layout/Section';
-import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 
 const VerticalFeatures = () => (
   <>
-    <Background color="cs-pink" bgclass="bg-logo-blend">
+    {/* <Background color="cs-pink" bgclass="bg-logo-blend">
       <Section yPadding="py-6">
         <NavbarTwoColumns>
           <li>
-            <Link href="/contact-crystal-shine-cleaning-service">
+            <Link href="/contact">
               <a>Contact Us</a>
             </Link>
           </li>
           <li>
-            <Link href="/">
+            <Link href="/about">
               <a>About</a>
             </Link>
           </li>
         </NavbarTwoColumns>
       </Section>
-    </Background>
+    </Background> */}
     <Section yPadding="py-2">
       <h2 className="text-2xl" color="cs-lime">
         Crystal Shine Cleaning
